@@ -1,6 +1,7 @@
 # SDD
 
 Some projects realized during my final year at SUPAERO, in the Data Science track.
+You will also find my end of study internship report
 
 
 ### Anomaly detection project:
